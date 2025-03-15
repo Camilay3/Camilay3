@@ -1,14 +1,14 @@
 <div align="center">
   <h2>Boas vindas!</h2>
-  <p>Conheça meu perfil a partir dos dados abaixo</p>
-  <img height="165em"  src="https://github-readme-stats.vercel.app/api?username=Camilay3&show_icons=true&theme=tokyonight" />
+  <p>Que bom que veio me visitar! Pode começar conhecendo meu perfil a partir dos dados abaixo</p>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Camilay3&show_icons=true&theme=tokyonight" />
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Camilay3&hide_progress=true" />
 </div>
 
 ***
 <div align="center"><h1>Conhecimentos</h1></div>
 
-## 📙💻 ▪️ Gerais/Back-end
+## 📙💻 ▪️ Gerais e Back-end
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Discord](https://img.shields.io/badge/Discord.js-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
@@ -22,7 +22,7 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 <br><br>
-## 🎨 ▪️ Design/Front-end
+## 🎨 ▪️ Design e Front-end
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -40,4 +40,5 @@
  <h2>Contato</h2>
  <a href="mailto:camila.santiago026@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  <a href="https://replit.com/@CamilaAzevedo"><img src="https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white" target="_blank"></a>
+ <a href="www.linkedin.com/in/camila-azevedo-7a9b9b354"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
