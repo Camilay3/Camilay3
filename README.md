@@ -8,7 +8,7 @@
 <div>
   <h3>• Sobre mim</h3>
   <p>👩🏻 Meu nome é <b>Camila</b>, tenho 18 anos e sou de Fortaleza-CE</p>
-  <p>👩🏻‍🎓 Fiz o curso técnico integrado em informática no IFCE Fortaleza e atualmente estou cursando <b>Ciências da Computação</b> no IFCE Maracanaú</p>
+  <p>👩🏻‍🎓 Fiz o curso técnico integrado em informática no IFCE Fortaleza (2021 a 2023) e atualmente estou cursando <b>Ciências da Computação</b> no IFCE Maracanaú</p>
   <p>👩🏻‍💻 Procuro uma carreira de <b>Front-end Web Developer</b> e o meu favoritinho do momento é o Node.js</p>
 </div>
 
@@ -54,3 +54,35 @@
  <a href="https://replit.com/@CamilaAzevedo"><img src="https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white" target="_blank"></a>
  <a href="www.linkedin.com/in/camila-azevedo-7a9b9b354"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=LinkedIn&logoColor=white" target="_blank"></a>
 </div>
+
+<!-- Linguagens em símbolos: opção de recolher
+<details>
+  <summary><b>🛠️ Linguagens e Ferramentas</b></summary>
+  <br/>
+  <div style="display: inline_block">
+    <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"> 
+    </a> &nbsp;
+     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"> 
+    </a> &nbsp;
+    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"> 
+    </a> &nbsp;
+    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"> 
+    </a> &nbsp;
+      <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> 
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> 
+    </a> &nbsp;
+     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"> 
+    </a> &nbsp;
+    <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
+      <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
+    </a> &nbsp;
+    <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> 
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="vscode" width="40" height="40"/> 
+    </a> &nbsp;
+  </div>
+</details>
