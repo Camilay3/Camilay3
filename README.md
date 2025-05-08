@@ -7,7 +7,7 @@
 
 <div>
   <h3>• Sobre mim</h3>
-  <p>👩🏻 Meu nome é <b>Camila</b>, tenho 18 anos e sou de Fortaleza-CE</p>
+  <p>👩🏻 Meu nome é <b>Camila</b>, tenho 19 anos e sou de Fortaleza-CE</p>
   <p>👩🏻‍🎓 Fiz o curso técnico integrado em informática no IFCE Fortaleza (2021 a 2023) e atualmente estou cursando <b>Ciências da Computação</b> no IFCE Maracanaú</p>
   <p>👩🏻‍💻 Procuro uma carreira de <b>Front-end Web Developer</b> e o meu favoritinho do momento é o Node.js</p>
 </div>
