@@ -5,7 +5,8 @@
 <div>
   <p>👩🏻 Meu nome é <b>Camila</b>, tenho 19 anos e sou de Fortaleza-CE</p>
   <p>👩🏻‍🎓 Fiz o curso técnico integrado em informática no IFCE Fortaleza (2021 a 2023) e atualmente estou cursando <b>Ciências da Computação</b> no IFCE Maracanaú</p>
-  <p>👩🏻‍💻 Procuro uma carreira de <b>Front-end Web Developer</b> e o meu favoritinho do momento é o Node.js</p>
+  <p>👩🏻‍💻 Procuro uma carreira de <b>Fullstack Web Developer</b> e o meu favoritinho do momento é o Node.js</p>
+  <p>🔗 Confira meu projeto em destaque: https://devoday.onrender.com/</p>
 </div>
 
 <br>
@@ -18,8 +19,8 @@
 <br><br>
 <h3 align="center">🛠 Linguagens e ferramentas 🛠</h3><br>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=nodejs,typescript,javascript,html,css,express,prisma" /><br> <!-- WEB -->
-    <img src="https://skillicons.dev/icons?i=discordjs,swift,kotlin,python,postgres,php" /><br> <!-- DIVERSOS -->
+    <img src="https://skillicons.dev/icons?i=nodejs,express,docker,typescript,javascript,html,css" /><br> <!-- WEB -->
+    <img src="https://skillicons.dev/icons?i=prisma,discordjs,swift,kotlin,python,postgres,php" /><br> <!-- DIVERSOS -->
     <img src="https://skillicons.dev/icons?i=figma,git,github,supabase,vscode,androidstudio,vercel" /><br> <!-- FERRAMENTAS -->
 </div><br>
 
