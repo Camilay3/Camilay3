@@ -19,19 +19,19 @@
 <br><br>
 <h3 align="center">🛠 Principais tecnologias 🛠</h3><br>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=nodejs,typescript,javascript,html,css,python" /><br> <!-- WEB -->
-    <img src="https://skillicons.dev/icons?i=figma,git,supabase,prisma,postgres" /><br> <!-- DIVERSOS -->
+    <img src="https://skillicons.dev/icons?i=nodejs,typescript,javascript,html,css" /><br> <!-- WEB -->
+    <img src="https://skillicons.dev/icons?i=figma,git,supabase,prisma" /><br> <!-- DIVERSOS -->
     
 </div><br>
 
-<h3 align="center">📖 Já utilizadas/estudadas 📖</h3><br>
+<h4 align="center">📖 Já utilizadas/estudadas 📖</h4>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=angular,express,docker,discordjs,swift,kotlin,php" /><br> <!-- FERRAMENTAS -->
+  <img width="300px" src="https://skillicons.dev/icons?i=angular,python,express,discordjs,docker,swift,kotlin,postgres,php" /><br> <!-- FERRAMENTAS -->
   
-  <img src="https://img.shields.io/badge/HBS-cf7200?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" />
-  <img src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white" />
-  <img src="https://img.shields.io/badge/Clickup-BF6B99?style=for-the-badge&logo=clickup&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Handlebars-333333?style=flat&logo=handlebarsdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/-JWT-333333?style=flat&logo=JSON%20web%20tokens&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Clickup-333333?style=flat&logo=clickup&logoColor=white" />
 </div>
 
 <!-- 
@@ -55,7 +55,8 @@
 <br><br>
 <div align="center">
   <h3>☎️ Contatos ☎️</h3>
-  <a href="mailto:camila.santiago026@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="www.linkedin.com/in/camila-azevedo-7a9b9b354"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=LinkedIn&logoColor=white" target="_blank"></a>
+  <a href="mailto:camila.santiago026@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/camila-azevedo-7a9b9b354" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+
   <!-- <a href="https://replit.com/@CamilaAzevedo"><img src="https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white" target="_blank"></a> -->
 </div>
