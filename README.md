@@ -19,14 +19,14 @@
 <br><br>
 <h3 align="center">🛠 Principais tecnologias 🛠</h3><br>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=nodejs,typescript,javascript,html,css" /><br> <!-- WEB -->
+    <img src="https://skillicons.dev/icons?i=angular,typescript,nodejs,javascript,html,css" /><br> <!-- WEB -->
     <img src="https://skillicons.dev/icons?i=figma,git,supabase,prisma" /><br> <!-- DIVERSOS -->
     
 </div><br>
 
 <h4 align="center">📖 Já utilizadas/estudadas 📖</h4>
 <div align="center">
-  <img width="300px" src="https://skillicons.dev/icons?i=angular,python,express,discordjs,docker,swift,kotlin,postgres,php" /><br> <!-- FERRAMENTAS -->
+  <img width="300px" src="https://skillicons.dev/icons?i=python,c,express,discordjs,docker,swift,kotlin,postgres,php" /><br> <!-- FERRAMENTAS -->
   
   <img src="https://img.shields.io/badge/-Handlebars-333333?style=flat&logo=handlebarsdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/-JWT-333333?style=flat&logo=JSON%20web%20tokens&logoColor=white" />
