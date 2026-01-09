@@ -26,7 +26,7 @@
 
 <h4 align="center">📖 Já utilizadas/estudadas 📖</h4>
 <div align="center">
-  <img width="300px" src="https://skillicons.dev/icons?i=python,c,express,discordjs,docker,swift,kotlin,postgres,php" /><br> <!-- FERRAMENTAS -->
+  <img width="300px" src="https://skillicons.dev/icons?i=java,python,c,express,discordjs,docker,swift,kotlin,postgres,php" /><br> <!-- FERRAMENTAS -->
   
   <img src="https://img.shields.io/badge/-Handlebars-333333?style=flat&logo=handlebarsdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/-JWT-333333?style=flat&logo=JSON%20web%20tokens&logoColor=white" />
@@ -41,6 +41,7 @@
     <img src="https://img.shields.io/badge/Nodemon-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD" />
 /> -->
 
+<!-- 
 <br><br>
 <div align="center">
   <h3>⭐️ Repositórios em destaque ⭐️</h3>
@@ -51,6 +52,7 @@
         <img width=375 src="https://github-readme-stats.vercel.app/api/pin/?username=camilay3&repo=PetsCugara&theme=light&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=2e3440" />
     </a>
 </div>
+/> -->
 
 <br><br>
 <div align="center">
