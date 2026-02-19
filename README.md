@@ -17,10 +17,15 @@
 </div>
 
 <br><br>
-<h3 align="center">🛠 Principais tecnologias 🛠</h3><br>
+<h3 align="center">🌐 Principais tecnologias 🌐</h3><br>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=angular,typescript,nodejs,javascript,html,css" /><br> <!-- WEB -->
-    <img src="https://skillicons.dev/icons?i=figma,git,supabase,prisma" /><br> <!-- DIVERSOS -->
+    
+</div><br>
+
+<h3 align="center">🛠 Ferramentas 🛠</h3><br>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=figma,git,supabase,prisma" /><br>
     
 </div><br>
 
