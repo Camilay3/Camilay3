@@ -4,7 +4,7 @@
 
 <div>
   <p>👩🏻 Meu nome é <b>Camila</b>, tenho 20 anos e sou de Fortaleza-CE</p>
-  <p>👩🏻‍🎓 Fiz o curso técnico integrado em informática no IFCE (2021 a 2023) e atualmente estou cursando <b>Ciências da Computação</b> também no IFCE.</p>
+  <p>👩🏻‍🎓 Sou Técnica de Informática (IFCE 2021 a 2023) e graduanda de <b>Ciências da Computação</b> no IFCE.</p>
   <p>👩🏻‍💻 Procuro uma carreira de <b>Frontend Web Developer</b> e os meus favoritinhos do momento são Angular e Node.js</p>
   <p>🔗 Confira meu portfólio: https://camilay3.github.io/portfolio/</p>
 </div>
