@@ -31,7 +31,7 @@
 
 <h4 align="center">📖 Já utilizadas/estudadas 📖</h4>
 <div align="center">
-  <img width="300px" src="https://skillicons.dev/icons?i=java,python,c,express,discordjs,docker,swift,kotlin,postgres,php" /><br> <!-- FERRAMENTAS -->
+  <img width="300px" src="https://skillicons.dev/icons?i=react,java,python,c,express,discordjs,docker,swift,kotlin,postgres,php" /><br> <!-- FERRAMENTAS -->
 
   <img src="https://img.shields.io/badge/-Thymeleaf-333333?style=flat&logo=thymeleaf&logoColor=white" />
   <img src="https://img.shields.io/badge/-Handlebars-333333?style=flat&logo=handlebarsdotjs&logoColor=white" />
